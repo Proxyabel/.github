@@ -1,4 +1,5 @@
 ## Hi there 👋
 
-I'm 456478@xmpp.sg
+I'm ~~456478@xmpp.sg~~
+TG: @proxydeveloper
 
