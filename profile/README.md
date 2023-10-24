@@ -1,5 +1,3 @@
-## Hi there 👋
+Want to say hello? 
 
-I'm ~~456478@xmpp.sg~~
-TG: @proxydeveloper
-
+Contact (base64) dC5tZS9wcm94eWRldmVsb3Blcg
