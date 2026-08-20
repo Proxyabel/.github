@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://github.com/Proxyabel"><img alt="ProksiAbel" src="https://img.shields.io/badge/ProksiAbel–Active%20Defense-0d1117?style=for-the-badge&logo=github&logoColor=5eead4&labelColor=0d1117&color=5eead4" /></a>
+  <a href="https://github.com/Proxyabel"><img alt="ProksiAbel" src="https://img.shields.io/badge/ProksiAbel-Active%20Defense-3fb950?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Verified-Organization-58a6ff?style=flat-square&logo=github" alt="Verified org" />
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Estonia-5eead4?style=flat-square" alt="Estonia" />
-  <a href="https://proksiabel.ee"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20proksiabel.ee-a78bfa?style=flat-square" alt="Website" /></a>
-  <img src="https://img.shields.io/badge/Since-2022-fb7185?style=flat-square" alt="Since 2022" />
-  <img src="https://img.shields.io/badge/Repos-3-9aa3b8?style=flat-square" alt="3 repos" />
+  <img src="https://img.shields.io/badge/Estonia-EE-3fb950?style=flat-square" alt="Estonia" />
+  <a href="https://proksiabel.ee"><img src="https://img.shields.io/badge/Website-proksiabel.ee-a371f7?style=flat-square" alt="Website" /></a>
+  <img src="https://img.shields.io/badge/Since-2022-f85149?style=flat-square" alt="Since 2022" />
+  <img src="https://img.shields.io/badge/Repositories-3-8b949e?style=flat-square" alt="3 repos" />
 </p>
 
 <br />
